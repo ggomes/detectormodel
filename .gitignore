@@ -1,0 +1,7 @@
+*~ 
+*.asv
+*.mat
+*.jar
+*.pdf
+*.class
+out_*
